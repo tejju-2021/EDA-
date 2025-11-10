@@ -63,7 +63,7 @@ Some of the visual outputs included in this notebook:
 
 ## 🧑‍💻 Add Me
 
-Hi! I'm **[Your Name]**, a Data Science enthusiast passionate about uncovering insights through data visualization and analytics.  
+Hi! I'm Tejas Dhawan, a Data Science enthusiast passionate about uncovering insights through data visualization and analytics.  
 This project helped me strengthen my skills in **data cleaning, merging multiple datasets, and creating compelling visual stories**.
 
 If you find this project useful or inspiring, feel free to:
